@@ -36,6 +36,19 @@
         >.<br />Pokédaily is not affiliated with Nintendo, Creatures Inc. or
         GAME FREAK Inc. // Pokémon and Pokémon character names are trademarks of
         Nintendo.
+        <br />
+        Info of the event:
+        <a
+          href="https://github.com/HerIsDia/pokedaily-summer-event/blob/main/french.md"
+          target="_blank"
+          rel="noopener noreferrer">FR</a
+        >
+        /
+        <a
+          href="https://github.com/HerIsDia/pokedaily-summer-event/blob/main/english.md"
+          target="_blank"
+          rel="noopener noreferrer">EN</a
+        >
       </p>
     </hgroup>
   </nav>
